@@ -2,6 +2,7 @@
 target/
 *.ser
 *.ec
+*.args
 .mvn/wrapper/maven-wrapper.jar
 
 # IntelliJ Idea
